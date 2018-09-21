@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="300dp"
+              android:layout_height="wrap_content">
+
+    <TextView
+        style="@style/DialogTitle"
+        android:id="@+id/world_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create World"/>
+
+    <EditText
+        android:id="@+id/add_world_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:maxLength="32"
+        android:hint="World Title"
+        android:inputType="textCapSentences"
+        android:imeOptions="actionNext"
+        android:nextFocusDown="@+id/.."
+        tools:text="Testing"/>
+
+    <EditText
+        android:id="@+id/add_world_seed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:hint="World Seed (Optional)"
+        android:inputType="textCapSentences"
+        android:imeOptions="actionDone"
+        tools:text="Seed Testing"/>
+
+</LinearLayout>

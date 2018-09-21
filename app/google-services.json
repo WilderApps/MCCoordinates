@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "10651319242",
+    "firebase_url": "https://mccoordinates.firebaseio.com",
+    "project_id": "mccoordinates",
+    "storage_bucket": "mccoordinates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10651319242:android:fefb74fce28a1b52",
+        "android_client_info": {
+          "package_name": "com.wilderapps.android.mccoordinates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10651319242-svs2p3dk4dk5dsump55a1qdsdm8ujrad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wilderapps.android.mccoordinates",
+            "certificate_hash": "80B96300CCBC2FB4322BC522DE3AD73F7B24F496"
+          }
+        },
+        {
+          "client_id": "10651319242-oehguu5rg29ofrigeq64nah15beqoknd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wilderapps.android.mccoordinates",
+            "certificate_hash": "D62E01660ADC62E046C77218E2750CEEE79FE84E"
+          }
+        },
+        {
+          "client_id": "10651319242-95uu26aakr1sidfurfjqhu71hr5h53ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAefJg0UUJmJ6R3jJfXCixW-B5TWFwDcks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10651319242-95uu26aakr1sidfurfjqhu71hr5h53ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

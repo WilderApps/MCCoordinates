@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coordinates for Minecraft</string>
+    <string name="overworld">Overworld</string>
+    <string name="nether">Nether</string>
+    <string name="end">The End</string>
+    <string-array name="vanilla_realms">
+        <item>Overworld</item>
+        <item>Nether</item>
+        <item>The End</item>
+    </string-array>
+    <string name="update">Update </string>
+    <string name="update_coords">Update Coordinates</string>
+    <string name="update_world">Update World</string>
+    <string name="alter">Alter </string>
+    <string name="adMob_id">ca-app-pub-1953617118142434~7830871106</string>
+    <string name="main_ad_id">ca-app-pub-1953617118142434/9307604300</string>
+    <string name="world_ad_id">ca-app-pub-1953617118142434/4439765909</string>
+</resources>
